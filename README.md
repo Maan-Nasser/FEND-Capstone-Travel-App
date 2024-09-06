@@ -10,7 +10,7 @@ Here's an improved version:
 ## Getting Started
 
 To get started with the app, follow these steps:
-1. Open the `Udacity-Project-5` folder, then open a terminal or Visual Studio Code.
+1. Open the folder, then open a terminal or Visual Studio Code.
 2. Install the dependencies by running `npm install`.
 3. Start the development build with `npm run build-dev`.
 4. Run the server by typing `npm start`.
